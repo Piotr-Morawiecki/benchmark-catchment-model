@@ -23,21 +23,21 @@ The main directory includes the following examples:
 
 | Filename | Short description | Figures recreated |
 | ---      | ---       | ---       |
-| 3D_example.m | compute and visualise 3D model solution | Fig 6 (Part 2) |
-| 3D_to_2D_verification.m | compute error of 2D approximation of 3D model | Fig 7-10 (Part 2) |
-| 2D_example.m | compute and visualise 2D model solution | Fig 10 (Part 2) |
-| 2D_sensitivity_analysis.m | run sensitivity analysis for eight parameters of 2D model | Fig 11 (Part 2) |
-| 2D_Maxwell_scenarios.m | compare 2D model to results from intercomparison study [[3]](#3) | Fig. 13-14 (Part 2) |
-| 1D_examples.m | present short- and long-time behaviour of 1D model | Fig. 2-3 (Part 3) |
-| 1D_parameter_variation.m | present impact of parameters on steady state and hydrograph for 1D model | Fig. 4 (Part 3) |
-| 1D_steady_state.m | compare 1D model steady state to its asymptotic approximation | Fig. 5 (Part 3) |
-| 1D_saturated_zone.m | compute growth of saturated zone in 1D model | Fig 6 (Part 3) |
-| 1D_characteristic.m | show characteristic diagram for satruated zone of 1D model | Fig. 7 (Part 3) |
-| 2D_1D_approximations.m | compare 2D and 1D model, and their analytic approximations  | Fig. 8 (Part 3) |
-| 1D_sensitivity_analysis.m | run sensitivity analysis for seven parameters of 1D model | Fig. 9 (Part 3) |
-| 1D_vertical_profile.m | present dependence of $h_g$, $\theta$ and $f$ on depth | Fig. 11 (Part 3) |
-| 1D_steady_state_error.m | compute error of leading order approximation for initial steady state | Fig. 12 (Part 3) |
-| 1D_saturated_zone_error.m | compute error leading order approximation for satruated zone size | Fig. 13 (Part 3) |
+| Example_3D.m | compute and visualise 3D model solution | Fig 6 (Part 2) |
+| Verification_3D_vs_2D.m | compute error of 2D approximation of 3D model | Fig 7-10 (Part 2) |
+| Examples_2D.m | compute and visualise 2D model solution | Fig 10 (Part 2) |
+| Sensitivity_analysis_2D.m | run sensitivity analysis for eight parameters of 2D model | Fig 11 (Part 2) |
+| Maxwell_scenarios_2D.m | compare 2D model to results from intercomparison study [[3]](#3) | Fig. 13-14 (Part 2) |
+| Examples_1D.m | present short- and long-time behaviour of 1D model | Fig. 2-3 (Part 3) |
+| Parameter_variation_1D.m | present impact of parameters on steady state and hydrograph for 1D model | Fig. 4 (Part 3) |
+| Steady_state_1D.m | compare 1D model steady state to its asymptotic approximation | Fig. 5 (Part 3) |
+| Saturated_zone_1D.m | compute growth of saturated zone in 1D model | Fig 6 (Part 3) |
+| Characteristic_1D.m | show characteristic diagram for satruated zone of 1D model | Fig. 7 (Part 3) |
+| Comparison_2D_vs_1D.m | compare 2D and 1D model, and their analytic approximations  | Fig. 8 (Part 3) |
+| Sensitivity_analysis_1D.m | run sensitivity analysis for seven parameters of 1D model | Fig. 9 (Part 3) |
+| Vertical_profile_1D.m | present dependence of $h_g$, $\theta$ and $f$ on depth | Fig. 11 (Part 3) |
+| Steady_state_error_1D.m | compute error of leading order approximation for initial steady state | Fig. 12 (Part 3) |
+| Saturated_zone_error_1D.m | compute error leading order approximation for satruated zone size | Fig. 13 (Part 3) |
 
 ## Licence
 
