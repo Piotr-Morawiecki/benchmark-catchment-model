@@ -1,7 +1,5 @@
 # 3D, 2D and 1D physical benchmark catchment models
 
-:warning: **This repository is still under construction.**
-
 ## About the repository
 
 This GitHub repository includes implementation of physical benchmark catchment models formulated and used in three-part paper "On the development and analysis of coupled
@@ -38,8 +36,6 @@ The main directory includes the following examples:
 | Vertical_profile_1D.m | present dependence of $h_g$, $\theta$ and $f$ on depth | Fig. 11 (Part 3) |
 | Steady_state_error_1D.m | compute error of leading order approximation for initial steady state | Fig. 12 (Part 3) |
 | Saturated_zone_error_1D.m | compute error leading order approximation for satruated zone size | Fig. 13 (Part 3) |
-
-## Licence
 
 ## References
 
